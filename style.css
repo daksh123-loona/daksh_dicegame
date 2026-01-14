@@ -165,6 +165,9 @@ main {
 .btn:focus {
   outline: none;
 }
+.hidden{
+  display:none;
+}
 
 /* ======================
    DICE
